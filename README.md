@@ -1,8 +1,8 @@
 # CPSC312-KingdomOfZed
 
-> Project Description on http://www.cs.sfu.ca/CourseCentral/383/pjj/a1.html
+> Project Description on [Kingdom Of Zed](http://www.cs.sfu.ca/CourseCentral/383/pjj/a1.html)
 
-> Identical to the Skyscrapers Puzzle on http://www.brainbashers.com/skyscrapers.asp
+> Identical to the Skyscrapers Puzzle on [BrainBashers](http://www.brainbashers.com/skyscrapers.asp)
 
 
 Calling *kingdomOfZedSolver INPUT* returns either *NOTHING*, or a solution *Just a* if a it exists.
@@ -11,13 +11,13 @@ Calling *kingdomOfZedSolver INPUT* returns either *NOTHING*, or a solution *Just
 
 
 ## Our implementation: 
-works with any nxn grid, 
+- works with any nxn grid. 
 
-allows incomplete information. For this option, merchants may withold information from you. If they do, their clue is represented as a 0 (zero). 
+- allows incomplete information. For this option, merchants may withold information from you. If they do, their clue is represented as a 0 (zero). 
 
-displays the output as a grid (not a list).
+- displays the output as a grid (not a list).
 
-implements one or more solving strategies.
+- implements one or more solving strategies.
 
 
 ## Examples: 
