@@ -4,6 +4,7 @@
 
 > Identical to the Skyscrapers Puzzle on [BrainBashers](http://www.brainbashers.com/skyscrapers.asp)
 
+Calling *zed INPUT* returns a grid of solution or empty grid.
 
 Calling *kingdomOfZedSolver INPUT* returns either *NOTHING*, or a solution *Just a* if a it exists.
 
