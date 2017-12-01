@@ -1,13 +1,12 @@
 # CPSC312-KingdomOfZed
 
-### Project Description on http://www.cs.sfu.ca/CourseCentral/383/pjj/a1.html
+Project Description on http://www.cs.sfu.ca/CourseCentral/383/pjj/a1.html
+Identical to the Skyscrapers Puzzle on http://www.brainbashers.com/skyscrapers.asp
 
-### Identical to the Skyscrapers Puzzle on http://www.brainbashers.com/skyscrapers.asp
 
+Calling *kingdomOfZedSolver INPUT* returns either *NOTHING*, or a solution *Just a* if a it exists.
 
-Calling kingdomOfZedSolver INPUT returns either NOTHING, or a solution Just a if a it exists.
-
-INPUT is an array of array that requires four array entries, and each array entry with the same length.
+*INPUT* is an array of array that requires four array entries, and each array entry with the same length.
 
 
 ## Our implementation: 
@@ -20,7 +19,7 @@ displays the output as a grid (not a list).
 implements one or more solving strategies.
 
 
-## For example: 
+## Examples: 
 ```
 kingdomOfZedSolver [[2,1],[1,2],[2,1],[1,2]]
 
