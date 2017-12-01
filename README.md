@@ -4,9 +4,11 @@ Project Description on http://www.cs.sfu.ca/CourseCentral/383/pjj/a1.html
 
 Identical to the Skyscrapers Puzzle on http://www.brainbashers.com/skyscrapers.asp
 
+
 Calling kingdomOfZedSolver INPUT returns either NOTHING, or a solution Just a if a it exists.
 
 INPUT is an array of array that requires four array entries, and each array entry with the same length.
+
 
 Our implementation: 
 works with any nxn grid, 
@@ -16,6 +18,7 @@ allows incomplete information. For this option, merchants may withold informatio
 displays the output as a grid (not a list).
 
 implements one or more solving strategies.
+
 
 For example: 
 
