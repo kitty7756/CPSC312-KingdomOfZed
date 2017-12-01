@@ -1,7 +1,8 @@
 # CPSC312-KingdomOfZed
 
-Project Description on http://www.cs.sfu.ca/CourseCentral/383/pjj/a1.html
-Identical to the Skyscrapers Puzzle on http://www.brainbashers.com/skyscrapers.asp
+> Project Description on http://www.cs.sfu.ca/CourseCentral/383/pjj/a1.html
+
+> Identical to the Skyscrapers Puzzle on http://www.brainbashers.com/skyscrapers.asp
 
 
 Calling *kingdomOfZedSolver INPUT* returns either *NOTHING*, or a solution *Just a* if a it exists.
